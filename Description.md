@@ -11,8 +11,57 @@ This study also includes an extensive exploratory data analysis on the provided 
 • Correlation between the different factors that affect sales
 • Average sales per year
 • Weekly sales as per region temperature, CPI, fuel price, unemployment
-# Exploratory Data Analysis
+Project Description:
 
-Before predicting Walmart's weekly sales, it's crucial to deeply understand the dataset. Exploratory Data Analysis (EDA) is like a detective work, examining patterns and trends in the data that might not be obvious. Through visualizations and tools like 'inspectdf' and 'glimpse' in R, we investigate the dataset's structure, identifying missing values, numeric/categorical distributions, and correlations. Using packages like 'ggplot2' and 'matplotlib', we create visuals showing sales patterns by store, department, holidays, regions, and factors like CPI, fuel price, etc. These visuals help us uncover insights for future predictive modeling.
-We use a helpful package function, 'isna()', to identify missing values in our dataset. Except for the file, there are no missing values in other datasets. The missing values in 'features' are mainly in columns related to holiday promotions, which is common due to seasonal pricing during holidays (mostly from November to January).
+Title: Walmart Store Sales Analysis and Customer Segmentation
+
+Objective:
+The objective of this project is to analyze the sales data from Walmart stores and perform customer segmentation using clustering techniques. The analysis aims to identify patterns in sales data and group stores or customers based on similar characteristics. This segmentation can provide valuable insights for targeted marketing strategies, inventory management, and overall business optimization.
+
+Project Steps:
+
+1. **Data Gathering:**
+   - The project starts with the collection of data from Walmart stores. The dataset includes information such as store details, weekly sales, holiday flags, temperature, fuel prices, CPI (Consumer Price Index), and unemployment rates.
+
+2. **Exploratory Data Analysis (EDA):**
+   - Conduct an exploratory data analysis to understand the structure and characteristics of the dataset.
+   - Check for missing values, data types, and descriptive statistics.
+   - Perform feature engineering if needed, such as dropping unnecessary columns.
+
+3. **Outlier Detection and Handling:**
+   - Identify and handle outliers in the dataset to ensure that they do not negatively impact the clustering results.
+   - Utilize statistical methods to detect and replace outliers.
+
+4. **Data Scaling:**
+   - Standardize the numerical features using Standard Scaler to bring them to a common scale.
+   - This step ensures that all features contribute equally to the clustering process.
+
+5. **2D Clustering:**
+   - Explore 2D clustering using different pairs of features, such as Temperature vs. Fuel Price, Holiday_Flag vs. Fuel_Price, and Temperature vs. CPI.
+   - Apply the KMeans clustering algorithm to group data points.
+
+6. **3D Clustering:**
+   - Extend the analysis to 3D clustering by selecting three relevant features.
+   - Visualize the clusters in a 3D scatter plot for better understanding.
+
+7. **Customer Segmentation:**
+   - Perform customer segmentation using features like Weekly_Sales, Temperature, Fuel_Price, CPI, etc.
+   - Apply KMeans clustering to group customers based on similar purchasing behavior.
+
+8. **Evaluation Metrics:**
+   - Evaluate the effectiveness of clustering using metrics such as Inertia and Silhouette Score.
+   - These metrics provide insights into the compactness of clusters and the separation between them.
+
+9. **Visualization:**
+   - Utilize visualization tools like Matplotlib, Seaborn, and Plotly to create informative plots and charts.
+   - Present the clusters and patterns discovered in a visually appealing manner.
+
+10. **Project Documentation:**
+    - Document the entire project, including the dataset used, methodologies applied, and key findings.
+    - Provide explanations for the choices made during data preprocessing, clustering, and visualization.
+
+11. **Conclusion and Recommendations:**
+    - Summarize the key insights obtained from the analysis.
+    - Provide recommendations for Walmart based on the identified clusters, such as targeted marketing strategies, store-specific initiatives, and inventory management improvements.
+
 
