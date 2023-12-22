@@ -11,5 +11,8 @@ This study also includes an extensive exploratory data analysis on the provided 
 • Correlation between the different factors that affect sales
 • Average sales per year
 • Weekly sales as per region temperature, CPI, fuel price, unemployment
+# Exploratory Data Analysis
 
+Before predicting Walmart's weekly sales, it's crucial to deeply understand the dataset. Exploratory Data Analysis (EDA) is like a detective work, examining patterns and trends in the data that might not be obvious. Through visualizations and tools like 'inspectdf' and 'glimpse' in R, we investigate the dataset's structure, identifying missing values, numeric/categorical distributions, and correlations. Using packages like 'ggplot2' and 'matplotlib', we create visuals showing sales patterns by store, department, holidays, regions, and factors like CPI, fuel price, etc. These visuals help us uncover insights for future predictive modeling.
+We use a helpful package function, 'isna()', to identify missing values in our dataset. Except for the file, there are no missing values in other datasets. The missing values in 'features' are mainly in columns related to holiday promotions, which is common due to seasonal pricing during holidays (mostly from November to January).
 
