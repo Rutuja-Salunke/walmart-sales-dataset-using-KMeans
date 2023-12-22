@@ -45,6 +45,8 @@ Project Steps:
 6. **3D Clustering:**
    - Extend the analysis to 3D clustering by selecting three relevant features.
    - Visualize the clusters in a 3D scatter plot for better understanding.
+   - ![Screenshot 2023-12-22 163924](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/9cfa846b-3a9c-4083-928c-c5f5f0594c8b)
+
 
 7. **Customer Segmentation:**
    - Perform customer segmentation using features like Weekly_Sales, Temperature, Fuel_Price, CPI, etc.
