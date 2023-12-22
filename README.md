@@ -1,4 +1,4 @@
-# walmart-sales-dataset: 
+# Unraveling Walmart's Weekly Sales Patterns through Advanced Data Analysis and Modeling
 - **Objective:** Employ KMeans algorithm for comprehensive analysis of Walmart sales data.
 - **Key Features:**
   - Clustering to identify distinct sales patterns.
