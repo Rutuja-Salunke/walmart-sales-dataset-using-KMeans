@@ -1,4 +1,7 @@
+# Simple Scatter Plot:
+A scatter plot is a type of graphical representation used to display the relationship between two continuous variables. It is particularly useful for identifying patterns, trends, and correlations between the variables. In a scatter plot, each data point is represented by a dot on a two-dimensional plane, with one variable plotted on the x-axis and the other on the y-axis.
 ![SCATTER](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/9bd8f1b0-55fd-4114-92c5-53ae8021d409)
+
 ![1](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/346038d9-5667-47ff-9b86-5195ba78ca25)
 ![2D-1](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/843cfac0-a1af-4fda-80dc-5840a165b756)
 ![2D-2](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/e0ea0d5b-3c60-4694-af59-a2d360a48608)
