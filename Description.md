@@ -39,6 +39,8 @@ Project Steps:
 5. **2D Clustering:**
    - Explore 2D clustering using different pairs of features, such as Temperature vs. Fuel Price, Holiday_Flag vs. Fuel_Price, and Temperature vs. CPI.
    - Apply the KMeans clustering algorithm to group data points.
+   - ![Screenshot 2023-12-22 162707](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/d9dac7e7-8311-4181-8d86-3a19fc2e92a3)
+
 
 6. **3D Clustering:**
    - Extend the analysis to 3D clustering by selecting three relevant features.
