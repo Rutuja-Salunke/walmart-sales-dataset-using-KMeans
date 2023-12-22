@@ -1,6 +1,7 @@
 # Simple Scatter Plot:
 A scatter plot is a type of graphical representation used to display the relationship between two continuous variables. It is particularly useful for identifying patterns, trends, and correlations between the variables. In a scatter plot, each data point is represented by a dot on a two-dimensional plane, with one variable plotted on the x-axis and the other on the y-axis.
 ![SCATTER](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/9bd8f1b0-55fd-4114-92c5-53ae8021d409)
+# Elbow Method:
 The Elbow Method is a technique used in data analysis and machine learning for finding the optimal number of clusters in a dataset. It is particularly employed in clustering algorithms, such as k-means clustering. The method is based on evaluating the variance or distortion within clusters for different values of k (the number of clusters) and looking for the "elbow" point in the graph.
 
 Here's a step-by-step description of the Elbow Method:
