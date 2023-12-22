@@ -1,4 +1,5 @@
 # Unraveling Walmart's Weekly Sales Patterns through Advanced Data Analysis and Modeling
+![WhatsApp Image 2023-12-22 at 3 23 29 PM](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/f1819ff8-e5ee-4d33-af4b-3295a090c662)
 - **Objective:** Employ KMeans algorithm for comprehensive analysis of Walmart sales data.
 - **Key Features:**
   - Clustering to identify distinct sales patterns.
