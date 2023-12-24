@@ -39,19 +39,14 @@ Project Steps:
    - Apply the KMeans clustering algorithm to group data points.
    - ![Screenshot 2023-12-22 162707](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/d9dac7e7-8311-4181-8d86-3a19fc2e92a3)
    - ### 5.1. Impact of Temperature on Fuel Price:
-   - 
 In the 2D clustering analysis focusing on temperature and fuel price, the objective is to uncover patterns and relationships between these two key factors and their impact on Walmart store sales. By applying the KMeans clustering algorithm to the dataset, we aim to group data points based on similarities in temperature and fuel price. The visual representation of these clusters provides insights into how variations in temperature and fuel prices contribute to distinct sales patterns. This analysis serves as a foundation for understanding the interplay between environmental and economic factors, aiding in targeted decision-making for sales optimization and resource management at Walmart stores.
    - ![2D-2](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/e0ea0d5b-3c60-4694-af59-a2d360a48608)
    - ### 5.2. 2D Clustering on Holiday_Flag and Fuel_Price:
    - In the 2D clustering analysis focused on 'Holiday_Flag' and 'Fuel_Price,' the goal is to explore how holidays and fuel prices influence Walmart store sales. By employing the KMeans clustering algorithm, the dataset is partitioned into clusters based on similarities in holiday flags and fuel prices. The resulting clusters reveal distinct patterns in sales behavior associated with holidays and fluctuations in fuel prices. This analysis provides valuable insights into the impact of these external factors on consumer spending, aiding Walmart in formulating targeted strategies for promotions, inventory management, and resource allocation during holiday seasons and varying fuel price conditions.
    - ![2D-3](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/2d1dce90-a10a-4126-8e0b-a35f846ed93c)
    - ### 5.3. 2D Clustering on Temperature and CPI:
-   - 
 In the 2D clustering analysis centered around 'Temperature' and 'Consumer Price Index (CPI),' the objective is to examine the relationship between weather conditions and economic indicators on Walmart store sales. Utilizing the KMeans clustering algorithm, the dataset is segmented into clusters based on similarities in temperature and CPI. The resulting clusters offer insights into the combined effects of temperature variations and economic trends on consumer behavior and purchasing patterns. This analysis helps Walmart understand the nuanced interactions between weather and economic factors, facilitating informed decision-making for sales strategies, inventory management, and resource allocation in response to changing conditions.
    - ![2D-4](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/d5e26692-c6bf-4cd7-b1d2-c8d17e3d61b4)
-
-   - 
-
 
 6. **3D Clustering:**
    - Extend the analysis to 3D clustering by selecting three relevant features.
