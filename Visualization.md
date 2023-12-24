@@ -30,6 +30,11 @@ Here's a brief description of what the graph might look like:
 ![2D-1](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/843cfac0-a1af-4fda-80dc-5840a165b756)
 ![2D-2](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/e0ea0d5b-3c60-4694-af59-a2d360a48608)
 ![SCATTER1](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/2da8fffd-440a-4c04-9f97-34cbb2f497b0)
+# 3D Clustering:
+
+3D clustering is a data analysis method that involves grouping similar data points in a three-dimensional space. In this context, the data points have three coordinates, and clustering algorithms work to identify patterns or structures within this spatial arrangement. Techniques like K-Means, Hierarchical Clustering, DBSCAN, and Gaussian Mixture Models are extended to handle the additional dimension. The goal is to partition the data into clusters based on spatial proximity, revealing meaningful groupings and aiding in the understanding of underlying patterns within the three-dimensional data space. This approach is particularly useful in applications where data exhibits spatial dependencies or where the relationships between variables are best represented in three dimensions.
+![newplot](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/2d434cd3-338e-402b-8446-b275297867ba)
+
 ![2](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/39ea0162-a54b-43d4-8d50-80d15ed2468b)
 ![2D-3](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/2d1dce90-a10a-4126-8e0b-a35f846ed93c)
 ![3](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/074b4691-6b94-46d6-a9bb-45f64735e541)
