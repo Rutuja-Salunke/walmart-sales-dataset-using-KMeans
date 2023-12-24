@@ -23,6 +23,10 @@ Here's a brief description of what the graph might look like:
 - **Elbow point:** The point where the rate of decrease slows down, forming an elbow in the graph. This is the optimal number of clusters.
 
 ![1](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/346038d9-5667-47ff-9b86-5195ba78ca25)
+- # 2D Clustering:
+
+2D clustering is a data analysis technique that involves grouping similar data points in a two-dimensional space. In this process, algorithms identify patterns, relationships, or structures within the data, forming clusters of points that share common characteristics. Common algorithms include K-Means, which partitions the data into K clusters based on mean values, and hierarchical clustering, which organizes data points into a tree-like structure. Other methods like DBSCAN, Mean Shift, and Gaussian Mixture Models offer alternative approaches, each with its strengths depending on the nature of the data and the desired clustering outcomes. The goal is to reveal inherent structures within the data and gain insights into the underlying patterns or groups present in the 2D space.
+
 ![2D-1](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/843cfac0-a1af-4fda-80dc-5840a165b756)
 ![2D-2](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/e0ea0d5b-3c60-4694-af59-a2d360a48608)
 ![SCATTER1](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/2da8fffd-440a-4c04-9f97-34cbb2f497b0)
