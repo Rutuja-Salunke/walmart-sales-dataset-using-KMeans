@@ -54,6 +54,9 @@ Project Steps:
    - ![Screenshot 2023-12-22 163924](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/9cfa846b-3a9c-4083-928c-c5f5f0594c8b)
    - ### 6.1 3D Clustering on 'Weekly_Sales', 'Temperature', 'Fuel_Price' :
    - ![newplot](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/2d434cd3-338e-402b-8446-b275297867ba)
+   - ### 6.2 3D clustering on 'Holiday_Flag', 'Temperature','CPI' :
+   - ![newplot (1)](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/ac892ff2-06b6-4e2e-ac45-f7a1c615d1f7)
+
 
 
 7. **Customer Segmentation:**
