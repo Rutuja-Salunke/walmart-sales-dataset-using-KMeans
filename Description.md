@@ -52,6 +52,8 @@ Project Steps:
    - Extend the analysis to 3D clustering by selecting three relevant features.
    - Visualize the clusters in a 3D scatter plot for better understanding.
    - ![Screenshot 2023-12-22 163924](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/9cfa846b-3a9c-4083-928c-c5f5f0594c8b)
+   - ### 6.1 3D Clustering on 'Weekly_Sales', 'Temperature', 'Fuel_Price' :
+   - ![newplot](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/2d434cd3-338e-402b-8446-b275297867ba)
 
 
 7. **Customer Segmentation:**
@@ -66,11 +68,7 @@ Project Steps:
    - Utilize visualization tools like Matplotlib, Seaborn, and Plotly to create informative plots and charts.
    - Present the clusters and patterns discovered in a visually appealing manner.
 
-10. **Project Documentation:**
-    - Document the entire project, including the dataset used, methodologies applied, and key findings.
-    - Provide explanations for the choices made during data preprocessing, clustering, and visualization.
-
-11. **Conclusion and Recommendations:**
+10. **Conclusion and Recommendations:**
     - Summarize the key insights obtained from the analysis.
     - Provide recommendations for Walmart based on the identified clusters, such as targeted marketing strategies, store-specific initiatives, and inventory management improvements.
 
