@@ -1,8 +1,9 @@
-# Project Goals and Background
+# Walmart Store Sales Analysis and Customer Segmentation
+## Project Goals and Background
 
 In the 21st century, huge amounts of data are generated, especially in technology-driven sectors like retail. Walmart, a major retail player, relies on data to predict future sales and compete globally. With over 11,000 stores worldwide, understanding customer behavior is vital. This research aims to forecast Walmart's sales based on historical data, considering factors like temperature and holidays. By analyzing past data and using big data analytics, Walmart can optimize sales, promotions, and resources, ensuring competitiveness and profitability in the dynamic market.
 
-# Purpose Statement:
+## Purpose Statement:
 This study aims to predict how much Walmart will sell each week based on data collected from 45 different stores across the country, spanning from 2010 to 2013. The dataset includes information about store size, type, departments, weekly sales, and whether it's a holiday week. We're looking at various factors like Consumer Price Index, temperature, fuel prices, promotions, and unemployment rates to figure out if they influence weekly sales. It helps understand the patterns and connections between sales and these factors.
 This study also includes an extensive exploratory data analysis on the provided Walmart dataset to understand the following:
 • Identifying store as well as department-wide sales in Walmart
@@ -11,9 +12,6 @@ This study also includes an extensive exploratory data analysis on the provided 
 • Correlation between the different factors that affect sales
 • Average sales per year
 • Weekly sales as per region temperature, CPI, fuel price, unemployment
-Project Description:
-
-Title: Walmart Store Sales Analysis and Customer Segmentation
 
 Objective:
 The objective of this project is to analyze the sales data from Walmart stores and perform customer segmentation using clustering techniques. The analysis aims to identify patterns in sales data and group stores or customers based on similar characteristics. This segmentation can provide valuable insights for targeted marketing strategies, inventory management, and overall business optimization.
@@ -40,6 +38,14 @@ Project Steps:
    - Explore 2D clustering using different pairs of features, such as Temperature vs. Fuel Price, Holiday_Flag vs. Fuel_Price, and Temperature vs. CPI.
    - Apply the KMeans clustering algorithm to group data points.
    - ![Screenshot 2023-12-22 162707](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/d9dac7e7-8311-4181-8d86-3a19fc2e92a3)
+   - ### 5.1. Impact of Temperature on Fuel Price:
+   - ![2D-2](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/e0ea0d5b-3c60-4694-af59-a2d360a48608)
+   - ### 5.2. 2D Clustering on Holiday_Flag and Fuel_Price:
+   - ![2D-3](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/2d1dce90-a10a-4126-8e0b-a35f846ed93c)
+   - ### 5.3. 2D Clustering on Temperature and CPI:
+   - ![2D-4](https://github.com/Rutuja-Salunke/walmart-sales-dataset-using-KMeans/assets/102023809/d5e26692-c6bf-4cd7-b1d2-c8d17e3d61b4)
+
+   - 
 
 
 6. **3D Clustering:**
